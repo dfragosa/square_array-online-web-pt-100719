@@ -1,3 +1,8 @@
 def square_array(array)
-  # your code here
+  
+  new_array =[]
+  array.each do |i| 
+   puts new_array<< array[i] 
+    end 
+    
 end
